@@ -1,7 +1,3 @@
-Creating a README file for a GitHub repository is an excellent way to provide an overview of your project, its functionality, and how to use it. Here's a template for your Fake News Classification project based on the code you've provided:
-
----
-
 # Fake News Classification
 
 ## Project Overview
